@@ -28,7 +28,13 @@ export default function AuthForm({ mode }: { mode: "login" | "signup" }) {
       const { error } = await supabase.auth.signInWithPassword({ email, password });
       setLoading(false);
       if (error) {
-        setError("Identifiants invalides.");
+        if (error.message.toLowerCase().includes("email not confirmed")) {
+          setError("Ton e-mail n'est pas encore confirmé — vérifie ta boîte mail (et les spams) pour le lien de confirmation.");
+        } else if (error.message.toLowerCase().includes("invalid login credentials")) {
+          setError("E-mail ou mot de passe incorrect, ou compte inexistant — vérifie ou crée un compte ci-dessous.");
+        } else {
+          setError(error.message);
+        }
         return;
       }
       router.push(next);

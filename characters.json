@@ -1,1 +1,50 @@
-{ "characters": [] }
+{
+  "characters": [
+    {
+      "id": "kelly",
+      "name": "Kelly",
+      "role": "Héros, narrateur",
+      "age": 26,
+      "height_cm": 186,
+      "weight_kg": 70,
+      "build": "mince",
+      "skin_origin": "noir, origine africaine",
+      "face": "ovale, équilibré",
+      "eyes": "noirs, regard calme et attentif",
+      "eyebrows_mark": "sourcil droit coupé au milieu (fente rasée)",
+      "hair": "courts, style africain, dégradé ras sur les côtés",
+      "beard": "aucune",
+      "power": "Boost de vitesse (lueur jaune), avec temps de recharge",
+      "outfit_real_1999": "t-shirt noir col rond, pantalon bleu (jean), chaussures fermées noires",
+      "outfit_game": "combinaison noire près du corps + blouson avec un motif de carte dans le dos",
+      "weapons": "MP40, petit couteau caché dans le blouson",
+      "attitude": "calme, analyse la situation, pense aux autres, veut sauver les autres et rentrer chez lui",
+      "voice": "douce, calme",
+      "personality": "quelqu'un de bien qui met sa vie en danger pour sauver les autres",
+      "prompt_en": "26-year-old Black African man, tall and slim (1.86 m, 70 kg), oval well-balanced face, dark brown almost black eyes with a calm attentive gaze, clean-shaven, a clean vertical slit shaved through the middle of his RIGHT eyebrow, short natural African hair with a high skin fade on the sides"
+    },
+    {
+      "id": "kevin",
+      "name": "Kevin",
+      "role": "Principal, membre du clan",
+      "age": 25,
+      "height_cm": 170,
+      "weight_kg": 65,
+      "build": "mince",
+      "skin_origin": "noir, origine africaine",
+      "face": "normal, sans marque",
+      "eyes": "noirs",
+      "eyebrows_mark": "aucune",
+      "hair": "tresses (cornrows) noires vers l'arrière jusqu'à la nuque",
+      "beard": "aucune",
+      "power": "Murs de gel instantanés, solides comme de la glace. Résistance selon son état (santé, fatigue, blessures). Peut faire évoluer sa compétence dès le début.",
+      "outfit_real_1999": "short noir, polo blanc",
+      "outfit_game": "tenue noire près du corps, col roulé noir",
+      "weapons": "fusil à pompe (combat rapproché), un peu d'épée",
+      "attitude": "s'énerve vite, bagarreur, fort grâce à sa compétence",
+      "voice": "plus grave, un peu arrogante",
+      "personality": "un peu arrogant mais extrêmement gentil, n'hésite pas à se jeter pour sauver Mahiba",
+      "prompt_en": "25-year-old Black African man, short and slim (1.70 m, 65 kg), clean symmetrical face with no marks, black eyes with an intense slightly cocky gaze, clean-shaven, black cornrow braids running straight back to the nape of the neck"
+    }
+  ]
+}

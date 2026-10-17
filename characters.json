@@ -132,6 +132,16 @@
       "ref_sheet_1999": "fal/refs/wilson_pied.jpg",
       "ref_expressions": "fal/refs/wilson_expressions.jpg",
       "ref_portal_scene": "fal/refs/wilson_portail.jpg"
+    },
+    {
+      "id": "sbires",
+      "name": "Sbires de Wilson",
+      "status": "brouillon",
+      "role": "Figurants armés (soldats d'élite de Wilson)",
+      "outfit_game": "armure tactique noire mate segmentée, long manteau noir à col haut, casque intégral noir lisse avec une fine visière rouge sang lumineuse, lignes rouges sur l'armure, emblème DarkSide (cercle noir à bord rouge) sur l'épaule et dans le dos, gants et rangers noirs",
+      "weapons": "fusil d'assaut futuriste",
+      "face": "caché (tous identiques)",
+      "prompt_en": "elite henchman soldier: fitted matte black segmented tactical armor, long black high-collar tactical coat, smooth full-face black helmet with a thin glowing blood-red visor line, blood-red accent lines, round DarkSide emblem (black circle with thin blood-red rim) on shoulder and back, futuristic assault rifle"
     }
   ]
 }

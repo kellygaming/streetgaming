@@ -1,8 +1,20 @@
-node_modules
-.next
+# Secrets
 .env
-.env.local
-.env*.local
-next-env.d.ts
-*.tsbuildinfo
-.DS_Store
+.env.*
+!.env.example
+
+# Médias générés (lourds) — on ne versionne que les .gitkeep
+renders/**/*
+!renders/**/.gitkeep
+fal/outputs/*
+!fal/outputs/.gitkeep
+audio/*
+!audio/.gitkeep
+final/*
+!final/.gitkeep
+*.blend1
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -99,6 +99,31 @@
           "sheet_game_url": "https://v3b.fal.media/files/b/0aaec1c4/ZZ3knV-O8roBqnd7uVp1Q_EA7KTvA4.png"
         }
       }
+    },
+    {
+      "id": "wilson",
+      "name": "Wilson",
+      "status": "brouillon",
+      "role": "Antagoniste, créateur de DarkSide",
+      "age": 44,
+      "height_cm": 198,
+      "weight_kg": 80,
+      "build": "très grand et élancé",
+      "skin_origin": "noir, origine africaine",
+      "face": "normal (allongé, pommettes marquées)",
+      "eyes": "gris",
+      "eyebrows_mark": "aucune",
+      "hair": "cheveux très fins, rasés des deux côtés",
+      "beard": "barbe et moustache courtes",
+      "power": "Ouvre des portes dimensionnelles noires et y fait passer qui il veut. Choisit la destination de chacun au moment où il entre, ou à l'avance personne par personne. A sûrement d'autres pouvoirs en réserve.",
+      "outfit_real_1999": "costume noir, canne dorée à la main",
+      "outfit_game": "identique à la vraie vie (l'un des rares à ne pas changer)",
+      "weapons": "canne-épée dorée (lame de samouraï cachée dans la canne), capable de trancher les balles",
+      "attitude": "très intelligent, contre les plans élaborés, comportement de fou, rire grotesque fréquent",
+      "voice": "grave",
+      "personality": "scientifique fou, très sûr de lui, difficile à vaincre ; voit les joueurs comme des cobayes pour voir jusqu'où l'homme va dans un monde sans loi",
+      "secret": "Si sûr de lui qu'il n'a pas créé de bouton pour désactiver les compétences des joueurs (révélé plus tard)",
+      "prompt_en": "44-year-old Black African man, very tall and lean (1.98 m, 80 kg), long angular face with sharp cheekbones, cold light grey eyes, short trimmed beard and moustache, very short fine hair with both sides shaved, black three-piece suit, golden sword-cane"
     }
   ]
 }

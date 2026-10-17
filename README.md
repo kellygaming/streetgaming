@@ -1,4 +1,4 @@
-# PROJET : Film animé réaliste — pipeline Blender → fal.ai
+# BLACK NIGHT TO DARKSIDE — Film animé réaliste (pipeline Blender → fal.ai)
 
 ## Objectif
 Transformer une histoire (`story.md`, saison 1) en film au rendu
@@ -35,7 +35,7 @@ le réalisme vient d'un modèle vidéo IA sur fal.ai.
 
 ## Structure
 ```
-story.md  shots.json  characters.json  sets.json
+story.md  personnages.md  shots.json  characters.json  sets.json
 blender/scenes/*.py      renders/clay/   renders/depth/
 fal/refs/  fal/outputs/  audio/          final/
 scripts/                 # 1 étape = 1 script relançable sur un seul plan
@@ -47,4 +47,4 @@ scripts/                 # 1 étape = 1 script relançable sur un seul plan
 - Estimer le coût fal par seconde de vidéo avant chaque batch.
 - Code modulaire : 1 étape = 1 script relançable sur un seul plan.
 - Les médias générés ne sont pas versionnés dans git (voir `.gitignore`).
-- Format : **à préciser (16:9 ou 9:16)**.
+- Format : **16:9 (YouTube)**. Les versions 9:16 seront recadrées au montage.

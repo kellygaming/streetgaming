@@ -1,10 +1,11 @@
-# BLACK NIGHT TO DARKSIDE — Film animé réaliste (pipeline Blender → fal.ai)
+# BLACK NIGHT TO DARKSIDE — Série anime (pipeline Blender → fal.ai)
 
 ## Objectif
-Transformer une histoire (`story.md`, saison 1) en film au rendu
-**PHOTORÉALISTE**. Pas de style dessin/cartoon IA. 3D « potable »,
-pas de modélisation lourde : Blender sert de squelette de mise en scène,
-le réalisme vient d'un modèle vidéo IA sur fal.ai.
+Transformer une histoire (`story.md`, saison 1) en série au rendu
+**ANIME** (style anime moderne : cel shading, lignes nettes, ton sombre
+action/sci-fi). 3D « potable », pas de modélisation lourde : Blender sert
+de squelette de mise en scène, le rendu final vient d'un modèle vidéo IA
+sur fal.ai.
 
 ## Prérequis
 - Blender appelable en CLI (`blender -b -P script.py`)
@@ -23,12 +24,13 @@ le réalisme vient d'un modèle vidéo IA sur fal.ai.
    - Caméra animée selon `shots.json`.
    - Export par plan : rendu « clay » (MP4) + passe Depth (Z normalisé).
    - EEVEE, 720p, 24 fps.
-3. **HABILLAGE RÉALISTE** (fal.ai)
-   - a) Image de référence photoréaliste par personnage → `fal/refs/`
+3. **HABILLAGE ANIME** (fal.ai)
+   - a) Image de référence anime par personnage → `fal/refs/`
         (planche : face, 3/4, profil, plein pied).
    - b) Par plan : vidéo video-to-video guidée par depth/pose Blender +
         image de référence perso. Modèle choisi en vérifiant la doc fal.
-   - Prompts en anglais : "cinematic, photorealistic, natural lighting, 35mm film".
+   - Prompts en anglais : "high-end modern Japanese anime, cel shading,
+     clean lineart, cinematic lighting".
 4. **FINITION**
    - Voix (TTS) + lipsync si dialogues, musique.
    - Montage final ffmpeg → `final/`.

@@ -51,7 +51,7 @@
       "weapons": "fusil à pompe (combat rapproché), un peu d'épée",
       "attitude": "s'énerve vite, bagarreur, fort grâce à sa compétence",
       "voice": "plus grave, un peu arrogante",
-      "personality": "un peu arrogant mais extrêmement gentil, n'hésite pas à se jeter pour sauver Mahiba",
+      "personality": "un peu arrogant mais extrêmement gentil, n'hésite pas à se jeter pour sauver Maiba",
       "prompt_en": "25-year-old Black African man, short and slim (1.70 m, 65 kg), clean symmetrical face with no marks, black eyes with an intense slightly cocky gaze, clean-shaven, black cornrow braids running straight back to the nape of the neck",
       "ref_portrait": "fal/refs/kevin_portrait.jpg",
       "ref_portrait_url": "https://v3b.fal.media/files/b/0aaebfb9/F7Vq8nZWn3mIKWtCQ7ldH_puFVkF7D.png",
@@ -62,28 +62,30 @@
       "ref_sheet_1999_url": "https://v3b.fal.media/files/b/0aaebfe2/pixpHjI-RSEAbiMh3A3t2_uwN8pnBe.png"
     },
     {
-      "id": "mahiba",
-      "name": "Mahiba",
+      "id": "maiba",
+      "name": "Maiba",
       "status": "brouillon",
       "role": "Principale, pièce maîtresse d'un plan plus tard",
       "age": 26,
       "height_cm": 160,
       "weight_kg": 70,
-      "build": "petite, formes généreuses",
+      "build": "petite, formes généreuses (un peu plus ronde)",
       "skin_origin": "noire, teint ébène",
       "face": "normal (rond-ovale)",
       "eyes": "marron, regard calme et réfléchi",
       "eyebrows_mark": "aucune",
       "hair": "cheveux noirs touffus, afro volumineux",
       "beard": "—",
-      "power": "Téléportation (couleur jaune, à confirmer). Très difficile à maîtriser, incontrôlable au début.",
-      "outfit_real_1999": "robe simple blanche avec une petite tache noire façon panda",
-      "outfit_game": "inspirée de la tenue d'Ada Wong (RE4) mais version originale : robe-pull rouge côtelée col roulé, harnais en cuir, cuissardes noires",
+      "power": "Téléportation (couleur violette). Très difficile à maîtriser, incontrôlable au début.",
+      "outfit_real_1999": "robe simple blanche au genou, une tache noire irrégulière sur le côté gauche (façon panda), sandales blanches plates",
+      "outfit_game": "version originale inspirée d'Ada Wong : robe-pull rouge cramoisi côtelée col roulé, harnais cuir noir avec deux étuis sous les bras, ceinture fine à boucle violette, gants noirs, cuissardes noires à talon bloc",
       "weapons": "deux gros pistolets type Desert Eagle",
       "attitude": "très forte au pistolet, audacieuse, prend les bonnes décisions, réfléchit avant de foncer (l'inverse de Kevin). Protégée par les autres au début à cause de son pouvoir instable.",
       "voice": "suave, douce, calme — son charme joue en sa faveur, c'est une tueuse",
       "personality": "réfléchie, stratège, décisive",
-      "prompt_en": "26-year-old Black African woman with deep ebony dark skin, short and curvy (1.60 m, 70 kg), soft round-oval face, warm brown eyes with a calm sharp thoughtful gaze, slight confident charming smile, big voluminous thick black afro hair"
+      "prompt_en": "26-year-old Black African woman with deep ebony dark skin, short and curvy (1.60 m, 70 kg), soft round-oval face, warm brown eyes with a calm sharp thoughtful gaze, slight confident charming smile, big voluminous thick black afro hair",
+      "ref_portrait": "fal/refs/maiba_portrait.jpg",
+      "ref_portrait_url": "https://v3b.fal.media/files/b/0aaec19b/ckbXUHIW3SzRJB_SpqKky_bHgavGfo.png"
     }
   ]
 }

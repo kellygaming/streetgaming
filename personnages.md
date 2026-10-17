@@ -11,7 +11,7 @@
 |---|---|---|---|
 | 1 | Kelly | Héros, narrateur | Boost de vitesse (lueur jaune) |
 | 2 | Kevin | Principal, membre du clan | Mur de gel blanc |
-| 3 | Mahiba | Principale | Téléportation |
+| 3 | Maiba | Principale | Téléportation |
 | 4 | Johann | Principal, membre du clan | ? |
 | 5 | Wilson | Antagoniste, créateur de DarkSide | ? (sort d'un portail noir rond) |
 | 6 | Le soldat en rouge | Secondaire, meurt à l'épisode 1 | Très rapide, combat à l'épée |
@@ -81,7 +81,7 @@ Déjà connu : très sérieux, s'entraîne pour le tournoi mondial de l'an 2000,
 - **Voix :**
 - **Caractère en 3 mots :**
 
-## 3. Mahiba
+## 3. Maiba
 Déjà connu : rencontrée au salon de lancement, courageuse (suit Kelly vers l'explosion), se téléporte au milieu des balles.
 
 - **Âge :**
@@ -141,7 +141,7 @@ Déjà connu : vêtu de noir, sort d'un portail noir rond, co-créateur du syst�
 - **Caractère en 3 mots :**
 
 ## 6. Le soldat en rouge (nom plus tard)
-Déjà connu : vêtu de rouge, épée, extrêmement rapide, ancien partenaire de Wilson, meurt en protégeant Mahiba.
+Déjà connu : vêtu de rouge, épée, extrêmement rapide, ancien partenaire de Wilson, meurt en protégeant Maiba.
 
 - **Âge :**
 - **Taille :**

@@ -103,7 +103,7 @@
     {
       "id": "wilson",
       "name": "Wilson",
-      "status": "validé (canne-épée à refaire)",
+      "status": "validé",
       "role": "Antagoniste, créateur de DarkSide",
       "age": 44,
       "height_cm": 198,
@@ -131,17 +131,21 @@
       "ref_sheet_game_url": "https://v3b.fal.media/files/b/0aaec28d/ZDcncAB7KJY7B1ntzRGvx_dQcShBi7.png",
       "ref_sheet_1999": "fal/refs/wilson_pied.jpg",
       "ref_expressions": "fal/refs/wilson_expressions.jpg",
-      "ref_portal_scene": "fal/refs/wilson_portail.jpg"
+      "ref_portal_scene": "fal/refs/wilson_portail.jpg",
+      "ref_sword_scene": "fal/refs/wilson_epee.jpg",
+      "ref_sword_scene_url": "https://v3b.fal.media/files/b/0aaec29e/9VIBXyvjxQq4WckRPkn-e_XTJidSdd.png"
     },
     {
       "id": "sbires",
       "name": "Sbires de Wilson",
-      "status": "brouillon",
+      "status": "validé",
       "role": "Figurants armés (soldats d'élite de Wilson)",
       "outfit_game": "armure tactique noire mate segmentée, long manteau noir à col haut, casque intégral noir lisse avec une fine visière rouge sang lumineuse, lignes rouges sur l'armure, emblème DarkSide (cercle noir à bord rouge) sur l'épaule et dans le dos, gants et rangers noirs",
       "weapons": "fusil d'assaut futuriste",
       "face": "caché (tous identiques)",
-      "prompt_en": "elite henchman soldier: fitted matte black segmented tactical armor, long black high-collar tactical coat, smooth full-face black helmet with a thin glowing blood-red visor line, blood-red accent lines, round DarkSide emblem (black circle with thin blood-red rim) on shoulder and back, futuristic assault rifle"
+      "prompt_en": "elite henchman soldier: fitted matte black segmented tactical armor, long black high-collar tactical coat, smooth full-face black helmet with a thin glowing blood-red visor line, blood-red accent lines, round DarkSide emblem (black circle with thin blood-red rim) on shoulder and back, futuristic assault rifle",
+      "ref_sheet_game": "fal/refs/sbires.jpg",
+      "ref_sheet_game_url": "https://v3b.fal.media/files/b/0aaec29e/Ctis8b2Y9GxKc8IK3Z8qr_HNY2JK5U.png"
     }
   ]
 }

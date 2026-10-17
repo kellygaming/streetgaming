@@ -60,6 +60,30 @@
       "ref_sheet_game_url": "https://v3b.fal.media/files/b/0aaebfcf/o3D_dsbKCTvS2_ZdotliU_L3ZAxi9v.png",
       "ref_sheet_1999": "fal/refs/kevin_1999.jpg",
       "ref_sheet_1999_url": "https://v3b.fal.media/files/b/0aaebfe2/pixpHjI-RSEAbiMh3A3t2_uwN8pnBe.png"
+    },
+    {
+      "id": "mahiba",
+      "name": "Mahiba",
+      "status": "brouillon",
+      "role": "Principale, pièce maîtresse d'un plan plus tard",
+      "age": 26,
+      "height_cm": 160,
+      "weight_kg": 70,
+      "build": "petite, formes généreuses",
+      "skin_origin": "noire, teint ébène",
+      "face": "normal (rond-ovale)",
+      "eyes": "marron, regard calme et réfléchi",
+      "eyebrows_mark": "aucune",
+      "hair": "cheveux noirs touffus, afro volumineux",
+      "beard": "—",
+      "power": "Téléportation (couleur jaune, à confirmer). Très difficile à maîtriser, incontrôlable au début.",
+      "outfit_real_1999": "robe simple blanche avec une petite tache noire façon panda",
+      "outfit_game": "inspirée de la tenue d'Ada Wong (RE4) mais version originale : robe-pull rouge côtelée col roulé, harnais en cuir, cuissardes noires",
+      "weapons": "deux gros pistolets type Desert Eagle",
+      "attitude": "très forte au pistolet, audacieuse, prend les bonnes décisions, réfléchit avant de foncer (l'inverse de Kevin). Protégée par les autres au début à cause de son pouvoir instable.",
+      "voice": "suave, douce, calme — son charme joue en sa faveur, c'est une tueuse",
+      "personality": "réfléchie, stratège, décisive",
+      "prompt_en": "26-year-old Black African woman with deep ebony dark skin, short and curvy (1.60 m, 70 kg), soft round-oval face, warm brown eyes with a calm sharp thoughtful gaze, slight confident charming smile, big voluminous thick black afro hair"
     }
   ]
 }

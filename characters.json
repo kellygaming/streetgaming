@@ -64,7 +64,7 @@
     {
       "id": "maiba",
       "name": "Maiba",
-      "status": "brouillon",
+      "status": "validé (version maîtrisée en cours)",
       "role": "Principale, pièce maîtresse d'un plan plus tard",
       "age": 26,
       "height_cm": 160,
@@ -77,7 +77,7 @@
       "hair": "cheveux noirs touffus, afro volumineux",
       "beard": "—",
       "power": "Téléportation (couleur violette). Très difficile à maîtriser, incontrôlable au début.",
-      "outfit_real_1999": "robe simple blanche au genou, une tache noire irrégulière sur le côté gauche (façon panda), sandales blanches plates",
+      "outfit_real_1999": "robe simple blanche au genou, une tache noire irrégulière sur le hanche droite (façon panda), sandales blanches plates",
       "outfit_game": "version originale inspirée d'Ada Wong : robe-pull rouge cramoisi côtelée col roulé, harnais cuir noir avec deux étuis sous les bras, ceinture fine à boucle violette, gants noirs, cuissardes noires à talon bloc",
       "weapons": "deux gros pistolets type Desert Eagle",
       "attitude": "très forte au pistolet, audacieuse, prend les bonnes décisions, réfléchit avant de foncer (l'inverse de Kevin). Protégée par les autres au début à cause de son pouvoir instable.",
@@ -85,7 +85,14 @@
       "personality": "réfléchie, stratège, décisive",
       "prompt_en": "26-year-old Black African woman with deep ebony dark skin, short and curvy (1.60 m, 70 kg), soft round-oval face, warm brown eyes with a calm sharp thoughtful gaze, slight confident charming smile, big voluminous thick black afro hair",
       "ref_portrait": "fal/refs/maiba_portrait.jpg",
-      "ref_portrait_url": "https://v3b.fal.media/files/b/0aaec19b/ckbXUHIW3SzRJB_SpqKky_bHgavGfo.png"
+      "ref_portrait_url": "https://v3b.fal.media/files/b/0aaec19b/ckbXUHIW3SzRJB_SpqKky_bHgavGfo.png",
+      "ref_sheet_game": "fal/refs/maiba_jeu.jpg",
+      "ref_sheet_game_url": "https://v3b.fal.media/files/b/0aaec1a0/3_qvfzV7MoU-DmFYbuos1_G4sK9J8X.png",
+      "ref_sheet_1999": "fal/refs/maiba_1999.jpg",
+      "ref_sheet_1999_url": "https://v3b.fal.media/files/b/0aaec1c4/ezxdQynK3Iyo5A0THP5Qc_f9LeGSDp.png",
+      "evolution": {
+        "maitrise": "Quand elle maîtrise sa téléportation : cheveux africains lissés et plaqués en arrière, rassemblés en gros puff afro avec un chouchou violet. Expression plus déterminée, particules violettes plus fortes."
+      }
     }
   ]
 }

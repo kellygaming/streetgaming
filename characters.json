@@ -64,7 +64,7 @@
     {
       "id": "maiba",
       "name": "Maiba",
-      "status": "validé (version maîtrisée en cours)",
+      "status": "validé",
       "role": "Principale, pièce maîtresse d'un plan plus tard",
       "age": 26,
       "height_cm": 160,
@@ -91,7 +91,13 @@
       "ref_sheet_1999": "fal/refs/maiba_1999.jpg",
       "ref_sheet_1999_url": "https://v3b.fal.media/files/b/0aaec1c4/ezxdQynK3Iyo5A0THP5Qc_f9LeGSDp.png",
       "evolution": {
-        "maitrise": "Quand elle maîtrise sa téléportation : cheveux africains lissés et plaqués en arrière, rassemblés en gros puff afro avec un chouchou violet. Expression plus déterminée, particules violettes plus fortes."
+        "maitrise": "Quand elle maîtrise sa téléportation : cheveux africains lissés et plaqués en arrière, rassemblés en gros puff afro avec un chouchou violet. Expression plus déterminée, particules violettes plus fortes.",
+        "maitrise_refs": {
+          "portrait": "fal/refs/maiba_maitrise_portrait.jpg",
+          "portrait_url": "https://v3b.fal.media/files/b/0aaec1c4/6nl2irs-8q2WGBZAX0LH2_hmqGvNSL.png",
+          "sheet_game": "fal/refs/maiba_maitrise_jeu.jpg",
+          "sheet_game_url": "https://v3b.fal.media/files/b/0aaec1c4/ZZ3knV-O8roBqnd7uVp1Q_EA7KTvA4.png"
+        }
       }
     }
   ]
